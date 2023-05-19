@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Wierd",
+                "last": "Galesloot"
+            },
+            "location": {
+                "street": {
+                    "number": 6243,
+                    "name": "Dal van Haasbroek"
+                },
+                "city": "'s-Hertogenbosch",
+                "state": "Utrecht",
+                "country": "Netherlands",
+                "postcode": "3824 NF",
+                "coordinates": {
+                    "latitude": "36.9334",
+                    "longitude": "-43.5030"
+                },
+                "timezone": {
+                    "offset": "-2:00",
+                    "description": "Mid-Atlantic"
+                }
+            },
+            "email": "wierd.galesloot@example.com",
+            "login": {
+                "uuid": "f36950c5-51e5-4da8-97e7-b5785f5a958c",
+                "username": "whiteladybug726",
+                "password": "jacques",
+                "salt": "ug3wZOGY",
+                "md5": "4181da6a875536bdbea96517a4c67a19",
+                "sha1": "f8612693dbdf3aea898f5bd59e12bab7f47c6f08",
+                "sha256": "c3347d12174c1ebee2e799a9b4e5bab28b171eb15a471854f4a1e4ced5b5cd85"
+            },
+            "dob": {
+                "date": "1965-09-04T08:05:21.905Z",
+                "age": 57
+            },
+            "registered": {
+                "date": "2011-01-27T02:45:46.587Z",
+                "age": 12
+            },
+            "phone": "(039) 3663580",
+            "cell": "(06) 92730757",
+            "id": {
+                "name": "BSN",
+                "value": "43508943"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/56.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/56.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/56.jpg"
+            },
+            "nat": "NL"
+        }
+    ],
+    "info": {
+        "seed": "1089d7612a54c343",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
